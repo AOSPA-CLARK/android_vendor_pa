@@ -42,6 +42,12 @@
         "revision":     "marshmallow-caf-8994"
     },
     {
+        "remote":       "aospa",
+        "repository":   "android_external_connectivity",
+        "target_path":  "external/connectivity",
+        "revision":     "marshmallow-caf"
+    },
+    {
         "remote":       "purenexus-clark",
         "repository":   "android_hardware_qcom_camera",
         "target_path":  "hardware/qcom/camera",
@@ -51,18 +57,6 @@
         "remote":       "CyanogenMod",
         "repository":   "android_hardware_sony_thermanager",
         "target_path":  "hardware/sony/thermanager",
-        "revision":     "cm-13.0"
-    },
-    {
-        "remote":       "CyanogenMod",
-        "repository":   "android_hardware_sony_timekeep",
-        "target_path":  "hardware/sony/timekeep",
-        "revision":     "cm-13.0"
-    },
-    {
-        "remote":       "CyanogenMod",
-        "repository":   "android_device_qcom_sepolicy",
-        "target_path":  "device/qcom/sepolicy",
         "revision":     "cm-13.0"
     }
 ]
