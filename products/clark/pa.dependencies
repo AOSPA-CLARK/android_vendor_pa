@@ -12,10 +12,10 @@
         "revision":     "android-6.0"
     },
     {
-        "remote":       "purenexus-clark",
+        "remote":       "aicp",
         "repository":   "proprietary_vendor_motorola",
         "target_path":  "vendor/motorola",
-        "revision":     "mm2"
+        "revision":     "mm6.0"
     },
     {
         "remote":       "aospa",
