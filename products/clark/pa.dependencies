@@ -12,7 +12,7 @@
         "revision":     "android-6.0"
     },
     {
-        "remote":       "aicp",
+        "remote":       "AOSPA-CLARK",
         "repository":   "proprietary_vendor_motorola",
         "target_path":  "vendor/motorola",
         "revision":     "mm6.0"
