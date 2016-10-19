@@ -58,5 +58,11 @@
         "repository":   "android_hardware_sony_thermanager",
         "target_path":  "hardware/sony/thermanager",
         "revision":     "cm-13.0"
+    },
+    {
+        "remote":       "AOSPA-CLARK",
+        "repository":   "android_packages_apps_supersu",
+        "target_path":  "packages/apps/supersu",
+        "revision":     "mm6.0"
     }
 ]
